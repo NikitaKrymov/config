@@ -1,0 +1,33 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.useTabs": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vim.vimrc.enable": true,
+    "vim.leader": " ",
+    "vim.easymotion": true,
+    "vim.surround": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"],
+            "when": "editorTextFocus"
+        },
+    ],
+    "vim.easymotionMarkerForegroundColorOneChar": "yellow",
+    "vim.easymotionMarkerForegroundColorTwoCharSecond": "yellow",
+    "vim.commandLineModeKeyBindings": [
+    
+    ],
+    "vim.commandLineModeKeyBindingsNonRecursive": [
+    
+    ]
+}
